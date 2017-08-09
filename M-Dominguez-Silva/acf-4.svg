@@ -22,7 +22,7 @@
    inkscape:export-ydpi="11.85"><metadata
      id="metadata16"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs14"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath30"><path
@@ -47,7 +47,7 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="1.1431056"
-     inkscape:cx="766.33337"
+     inkscape:cx="401.53768"
      inkscape:cy="456.04535"
      inkscape:window-x="-13"
      inkscape:window-y="-13"
