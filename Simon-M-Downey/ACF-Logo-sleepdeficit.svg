@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="440px"
+   height="240px"
+   viewBox="0 0 440 240"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="ACF-Logo-sleepdeficit.svg"
+   inkscape:export-filename="C:\Users\jens\Documents\GitHub\logo_contest\Simon-M-Downey\ACF-Logo-sleepdeficit.png"
+   inkscape:export-xdpi="18.860001"
+   inkscape:export-ydpi="18.860001"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2736"
+     inkscape:window-height="1699"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="0.98333333"
+     inkscape:cx="220"
+     inkscape:cy="120"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Untitled 2</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs7">
+    <rect
+       id="path-1"
+       x="0"
+       y="0"
+       width="440"
+       height="240" />
+  </defs>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="Rectangle-5">
+      <use
+         fill-opacity="0.875537817"
+         fill="#212121"
+         fill-rule="evenodd"
+         xlink:href="#path-1"
+         id="use9" />
+      <rect
+         stroke="#EDE8E8"
+         stroke-width="1"
+         x="0.5"
+         y="0.5"
+         width="439"
+         height="239"
+         id="rect11" />
+    </g>
+    <polygon
+       id="Triangle"
+       fill="#E74C3C"
+       points="120 20 220 220 20 220" />
+    <path
+       d="M260,20 C204.771525,20 160,64.771525 160,120 C160,175.228475 204.771525,220 260,220 L260,20 Z M260,20 L280,20 L280,220 L260,220 L260,20 Z"
+       id="Combined-Shape"
+       fill="#2ECC71" />
+    <polygon
+       id="Path-3"
+       fill="#3498DB"
+       points="280 20 420 20 420 80 340 80 340 220 280 220" />
+    <path
+       d="M50,130 L380,130"
+       id="Line-2"
+       stroke="#FEFEFE"
+       stroke-width="40"
+       stroke-linecap="square" />
+  </g>
+</svg>
