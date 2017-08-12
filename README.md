@@ -8,7 +8,7 @@ All submissions received for the ACF logo contest.
 
 ## Iwansyah
 
-![Iwansyah](https://github.com/arkcommunityfund/logo_contest/blob/master/Iwansyah-Multimedia/AR-%20CONTEST-01.jpg)
+![Iwansyah](https://github.com/arkcommunityfund/logo_contest/blob/master/Iwansyah-Multimedia/preview.png)
 
 ## Leon Kortekaas
 
@@ -34,7 +34,7 @@ All submissions received for the ACF logo contest.
 
 ## Mihai Serban
 
-![Mihai Serban](https://github.com/arkcommunityfund/logo_contest/blob/master/Mihai-Serban/ark-community-branding.png)
+![Mihai Serban](https://github.com/arkcommunityfund/logo_contest/blob/master/Mihai-Serban/preview.png)
 
 ## Mikanele
 
