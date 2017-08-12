@@ -42,7 +42,7 @@ All submissions received for the ACF logo contest.
 
 ## Milaneze
 
-![Milaneze](https://github.com/arkcommunityfund/logo_contest/blob/master/Milaneze/ACF-LOGO.png)
+![Milaneze](https://github.com/arkcommunityfund/logo_contest/blob/master/Milaneze/preview.png)
 
 ## Mr Boogins
 
@@ -50,7 +50,7 @@ All submissions received for the ACF logo contest.
 
 ## Rolf Geern
 
-![Rolf Geern](https://github.com/arkcommunityfund/logo_contest/blob/master/Rolf-Geern/flowRoot4713.png)
+![Rolf Geern](https://github.com/arkcommunityfund/logo_contest/blob/master/Rolf-Geern/preview.png)
 
 ## Sermet Bulut
 
