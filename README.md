@@ -50,7 +50,7 @@ All submissions received for the ACF logo contest.
 
 ## Rolf Geern
 
-![Rolf Geern](https://github.com/arkcommunityfund/logo_contest/blob/master/Rolf-Geern/flowRoot4713.png
+![Rolf Geern](https://github.com/arkcommunityfund/logo_contest/blob/master/Rolf-Geern/flowRoot4713.png)
 
 ## Sermet Bulut
 
