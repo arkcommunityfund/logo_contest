@@ -2,6 +2,10 @@
 
 All submissions received for the ACF logo contest.
 
+## Angry Turnip
+
+![Angry Turnip](https://github.com/arkcommunityfund/logo_contest/blob/master/Angry-Turnip/acflogoentry.png)
+
 ## Iwansyah
 
 ![Iwansyah](https://github.com/arkcommunityfund/logo_contest/blob/master/Iwansyah-Multimedia/AR-%20CONTEST-01.jpg)
@@ -36,9 +40,17 @@ All submissions received for the ACF logo contest.
 
 ![Mikanele](https://github.com/arkcommunityfund/logo_contest/blob/master/Mikanele/acf-mikanele-preview.png)
 
+## Milaneze
+
+![Milaneze](https://github.com/arkcommunityfund/logo_contest/blob/master/Milaneze/ACF-LOGO.png)
+
 ## Mr Boogins
 
 ![Mr Boogins](https://github.com/arkcommunityfund/logo_contest/blob/master/Mr-Boogins/Acf-preview.png)
+
+## Rolf Geern
+
+![Rolf Geern](https://github.com/arkcommunityfund/logo_contest/blob/master/Rolf-Geern/flowRoot4713.png
 
 ## Sermet Bulut
 
