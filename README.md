@@ -74,9 +74,9 @@ All submissions received for the ACF logo contest.
 
 ![6](https://github.com/arkcommunityfund/logo_contest/blob/master/Sermet-Bulut/ark-acf6-preview.png)
 
-#ShmupNasty
+## ShmupNasty
 
-![ShmupNasty](https://github.com/arkcommunityfund/logo_contest/blob/master/ShmupNasty/ACFstampversions.png)
+![ShmupNasty](https://github.com/arkcommunityfund/logo_contest/blob/master/ShmupNasty/ACFstampversionspreview.png)
 
 
 ## Simon M Downey
