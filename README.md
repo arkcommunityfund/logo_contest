@@ -54,7 +54,7 @@ All submissions received for the ACF logo contest.
 
 ## Oisin Obrien
 
-![Oisin Obrien](https://github.com/arkcommunityfund/logo_contest/blob/master/oisin-obrien/preview.png)
+![Oisin Obrien](https://github.com/arkcommunityfund/logo_contest/blob/master/oisin-obrien/preview-svg.png)
 
 ## Rolf Geern
 
