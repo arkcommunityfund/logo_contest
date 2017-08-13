@@ -12,7 +12,11 @@ All submissions received for the ACF logo contest.
 
 ## Leon Kortekaas
 
-![Leon Kortekaas](https://github.com/arkcommunityfund/logo_contest/blob/master/Leon-Kortekaas/ARKCOIN-LOGO-preview.png)
+![Leon Kortekaas 1](https://github.com/arkcommunityfund/logo_contest/blob/master/Leon-Kortekaas/ARKCOIN-LOGO-preview.png)
+
+![Leon Kortekaas 2](https://github.com/arkcommunityfund/logo_contest/blob/master/Leon-Kortekaas/preview2.png)
+
+![Leon Kortekaas 3](https://github.com/arkcommunityfund/logo_contest/blob/master/Leon-Kortekaas/preview3.png)
 
 ## M Dominguez Silvia
 
@@ -48,6 +52,10 @@ All submissions received for the ACF logo contest.
 
 ![Mr Boogins](https://github.com/arkcommunityfund/logo_contest/blob/master/Mr-Boogins/Acf-preview.png)
 
+## Oisin Obrien
+
+![Oisin Obrien](https://github.com/arkcommunityfund/logo_contest/blob/master/oisin-obrien/preview.png)
+
 ## Rolf Geern
 
 ![Rolf Geern](https://github.com/arkcommunityfund/logo_contest/blob/master/Rolf-Geern/preview.png)
@@ -65,6 +73,11 @@ All submissions received for the ACF logo contest.
 ![5](https://github.com/arkcommunityfund/logo_contest/blob/master/Sermet-Bulut/ark-acf5-preview.png)
 
 ![6](https://github.com/arkcommunityfund/logo_contest/blob/master/Sermet-Bulut/ark-acf6-preview.png)
+
+#ShmupNasty
+
+![ShmupNasty](https://github.com/arkcommunityfund/logo_contest/blob/master/ShmupNasty/ACFstampversions.png)
+
 
 ## Simon M Downey
 
