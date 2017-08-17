@@ -92,7 +92,7 @@ All submissions received for the ACF logo contest.
 
 # terry
 
-![terry](https://github.com/thegritty/logo_contest/blob/master/terry/logos1.png)
+![terry](https://github.com/arkcommunityfund/logo_contest/blob/master/terry/logos1.png)
 
 ## TTH
 
