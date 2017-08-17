@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:#FF0000;}
+	.st3{fill:#ED1C24;}
+	.st4{fill:none;stroke:#ED1C24;stroke-miterlimit:10;}
+	.st5{font-family:'Impact';}
+	.st6{font-size:100px;}
+</style>
+<g id="Laag_5" class="st0">
+</g>
+<g id="Laag_1">
+	<path class="st1" d="M271.9,296.5"/>
+	<g>
+		<g id="XMLID_1_">
+			<g>
+				<polygon class="st2" points="400.1,401.1 421.6,425.2 400.1,425.2 378.6,425.2 				"/>
+				<polygon class="st3" points="400.4,299.5 523.6,465.2 480.7,465.2 400.4,380.4 400.1,380.4 319.8,465.2 276.9,465.2 
+					400.1,299.5 				"/>
+			</g>
+			<g>
+				<polyline class="st4" points="276.9,465.2 319.8,465.2 400.1,380.4 				"/>
+				<polyline class="st4" points="523.6,465.2 480.7,465.2 400.4,380.4 				"/>
+				<line class="st4" x1="276.9" y1="465.2" x2="400.1" y2="299.5"/>
+				<line class="st4" x1="523.6" y1="465.2" x2="400.4" y2="299.5"/>
+				<line class="st4" x1="400.1" y1="425.2" x2="421.6" y2="425.2"/>
+				<line class="st4" x1="400.1" y1="425.2" x2="378.6" y2="425.2"/>
+				<polyline class="st4" points="378.6,425.2 400.1,401.1 400.2,401 				"/>
+				<polyline class="st4" points="421.6,425.2 400.1,401.1 400,401 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Laag_2">
+	<text transform="matrix(1 0 0 1 288 352)" class="st3 st5 st6">A</text>
+</g>
+<g id="Laag_3">
+	<text transform="matrix(1 0 0 1 374 270.9997)" class="st3 st5 st6">C</text>
+</g>
+<g id="Laag_4">
+	<text transform="matrix(1 0 0 1 468 352)" class="st3 st5 st6">F</text>
+</g>
+</svg>

@@ -56,9 +56,17 @@ All submissions received for the ACF logo contest.
 
 ![Oisin Obrien](https://github.com/arkcommunityfund/logo_contest/blob/master/oisin-obrien/preview-svg.png)
 
+## Pi
+
+![Pi](https://github.com/arkcommunityfund/logo_contest/blob/master/Pi/ACF_1_black.png)
+
 ## Rolf Geern
 
 ![Rolf Geern](https://github.com/arkcommunityfund/logo_contest/blob/master/Rolf-Geern/preview.png)
+
+## Ryan Dolinsky
+
+![Ryan Dolinsky](https://github.com/arkcommunityfund/logo_contest/blob/master/Ryan-Dolinsky/ACF.png)
 
 ## Sermet Bulut
 
@@ -81,6 +89,10 @@ All submissions received for the ACF logo contest.
 ## sleepdefic1t
 
 ![sleepdefic1t](https://github.com/arkcommunityfund/logo_contest/blob/master/sleepdefic1t/ACF-Logo-sleepdefic1t-preview.png)
+
+# terry
+
+![terry](https://github.com/arkcommunityfund/logo_contest/blob/master/terry/g3.png)
 
 ## TTH
 
