@@ -78,10 +78,9 @@ All submissions received for the ACF logo contest.
 
 ![ShmupNasty](https://github.com/arkcommunityfund/logo_contest/blob/master/ShmupNasty/ACFstampversionspreview.png)
 
+## sleepdefic1t
 
-## Simon M Downey
-
-![Simon M Downey](https://github.com/arkcommunityfund/logo_contest/blob/master/Simon-M-Downey/ACF-Logo-sleepdeficit-preview.png)
+![sleepdefic1t](https://github.com/arkcommunityfund/logo_contest/blob/master/sleepdefic1t/ACF-Logo-sleepdefic1t-preview.png)
 
 ## TTH
 
