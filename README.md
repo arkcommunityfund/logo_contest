@@ -10,6 +10,10 @@ All submissions received for the ACF logo contest.
 
 ![Iwansyah](https://github.com/arkcommunityfund/logo_contest/blob/master/Iwansyah-Multimedia/preview.png)
 
+## Knut Eilertsen
+
+No clue how to edit these files.
+
 ## Leon Kortekaas
 
 ![Leon Kortekaas 1](https://github.com/arkcommunityfund/logo_contest/blob/master/Leon-Kortekaas/ARKCOIN-LOGO-preview.png)
@@ -60,6 +64,10 @@ All submissions received for the ACF logo contest.
 
 ![Pi](https://github.com/arkcommunityfund/logo_contest/blob/master/Pi/ACF_1_black.png)
 
+## Rhian Campbell
+
+![Rhian Campbell](https://github.com/arkcommunityfund/logo_contest/blob/master/Rhian-Campbell/preview.png)
+
 ## Rolf Geern
 
 ![Rolf Geern](https://github.com/arkcommunityfund/logo_contest/blob/master/Rolf-Geern/preview.png)
@@ -97,6 +105,10 @@ All submissions received for the ACF logo contest.
 ## TTH
 
 ![TTH](https://github.com/arkcommunityfund/logo_contest/blob/master/TTH/AcfLogotthrhmral-preview.png)
+
+## Thomas Breher
+
+![Thomas Breher](https://github.com/arkcommunityfund/logo_contest/blob/master/Thomas-Breher/preview.png)
 
 ## Troy Kelly
 
