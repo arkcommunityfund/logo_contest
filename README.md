@@ -36,6 +36,10 @@ No clue how to edit these files.
 
 ![6](https://github.com/arkcommunityfund/logo_contest/blob/master/M-Dominguez-Silva/acf-6-preview.png)
 
+## Max von der mey
+
+![1](https://github.com/arkcommunityfund/logo_contest/blob/master/max-von-der-mey/ACF.png)
+
 ## Michael Warner
 
 ![Michael Warner](https://github.com/arkcommunityfund/logo_contest/blob/master/Michael-Warner/acf-logo_Idea%203.1-preview.png)
@@ -60,6 +64,10 @@ No clue how to edit these files.
 
 ![Oisin Obrien](https://github.com/arkcommunityfund/logo_contest/blob/master/oisin-obrien/preview-svg.png)
 
+## Peter Wieben
+
+![Peter Wieben](https://github.com/arkcommunityfund/logo_contest/blob/master/peter-wieben/ACF-public-sample.png)
+
 ## Pi
 
 ![Pi](https://github.com/arkcommunityfund/logo_contest/blob/master/Pi/ACF_1_black.png)
@@ -67,6 +75,10 @@ No clue how to edit these files.
 ## Rhian Campbell
 
 ![Rhian Campbell](https://github.com/arkcommunityfund/logo_contest/blob/master/Rhian-Campbell/preview.png)
+
+## Robert Hissink Muller
+
+![Robert Hissink Muller](https://github.com/arkcommunityfund/logo_contest/blob/master/robert-hissink-muller/Logoacf.png)
 
 ## Rolf Geern
 
@@ -102,10 +114,6 @@ No clue how to edit these files.
 
 ![terry](https://github.com/arkcommunityfund/logo_contest/blob/master/terry/acf_v8.png)
 
-## TTH
-
-![TTH](https://github.com/arkcommunityfund/logo_contest/blob/master/TTH/AcfLogotthrhmral-preview.png)
-
 ## Thomas Breher
 
 ![Thomas Breher](https://github.com/arkcommunityfund/logo_contest/blob/master/Thomas-Breher/preview.png)
@@ -113,3 +121,7 @@ No clue how to edit these files.
 ## Troy Kelly
 
 ![Troy Kelly](https://github.com/arkcommunityfund/logo_contest/blob/master/Troy-Kelly/ACF-Full-Color-preview.png)
+
+## TTH
+
+![TTH](https://github.com/arkcommunityfund/logo_contest/blob/master/TTH/AcfLogotthrhmral-preview.png)
