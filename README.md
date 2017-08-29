@@ -10,6 +10,10 @@ All submissions received for the ACF logo contest.
 
 ![Iwansyah](https://github.com/arkcommunityfund/logo_contest/blob/master/Iwansyah-Multimedia/preview.png)
 
+## Joerg Schirlbauer
+
+![Joerg Schirlbauer](https://github.com/arkcommunityfund/logo_contest/blob/master/Joerg-Schirlbauer/preview.png)
+
 ## Knut Eilertsen
 
 No clue how to edit these files.
