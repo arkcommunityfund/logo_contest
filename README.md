@@ -64,6 +64,10 @@ No clue how to edit these files.
 
 ![Mr Boogins](https://github.com/arkcommunityfund/logo_contest/blob/master/Mr-Boogins/Acf-preview.png)
 
+## Nico Engelardt
+
+![Nico Engelardt](https://github.com/arkcommunityfund/logo_contest/blob/master/Nico-Engelardt/acf.png)
+
 ## Oisin Obrien
 
 ![Oisin Obrien](https://github.com/arkcommunityfund/logo_contest/blob/master/oisin-obrien/preview-svg.png)
@@ -129,3 +133,7 @@ No clue how to edit these files.
 ## TTH
 
 ![TTH](https://github.com/arkcommunityfund/logo_contest/blob/master/TTH/AcfLogotthrhmral-preview.png)
+
+## William Yee
+
+PDF - check folder
