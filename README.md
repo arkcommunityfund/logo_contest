@@ -64,9 +64,9 @@ No clue how to edit these files.
 
 ![Mr Boogins](https://github.com/arkcommunityfund/logo_contest/blob/master/Mr-Boogins/Acf-preview.png)
 
-## Nico Engelardt
+## Nico Engelhardt
 
-![Nico Engelardt](https://github.com/arkcommunityfund/logo_contest/blob/master/Nico-Engelardt/acf.png)
+![Nico Engelhardt](https://github.com/arkcommunityfund/logo_contest/blob/master/Nico-Engelhardt/acf.png)
 
 ## Oisin Obrien
 
