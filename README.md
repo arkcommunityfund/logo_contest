@@ -149,3 +149,7 @@ No clue how to edit these files.
 ## William Yee
 
 PDF - check folder
+
+## ZT
+
+![ZT](https://github.com/arkcommunityfund/logo_contest/blob/master/TTH/acf-logo-contest.png)
