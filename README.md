@@ -6,6 +6,14 @@ All submissions received for the ACF logo contest.
 
 ![Angry Turnip](https://github.com/arkcommunityfund/logo_contest/blob/master/Angry-Turnip/acflogoentry.png)
 
+## Efstratios-Zoumpoulias
+
+![Efstratios-Zoumpoulias](https://github.com/arkcommunityfund/logo_contest/blob/master/Efstratios-Zoumpoulias/1.png)
+
+## Golden State
+
+Check folder.
+
 ## Iwansyah
 
 ![Iwansyah](https://github.com/arkcommunityfund/logo_contest/blob/master/Iwansyah-Multimedia/preview.png)
