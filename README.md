@@ -120,7 +120,7 @@ No clue how to edit these files.
 
 # terry
 
-![terry](https://github.com/arkcommunityfund/logo_contest/blob/master/terry/acf_v8.png)
+![terry](https://github.com/arkcommunityfund/logo_contest/blob/master/terry/ACF_9.png)
 
 ## Thomas Breher
 
