@@ -34,6 +34,10 @@ No clue how to edit these files.
 
 ![Leon Kortekaas 3](https://github.com/arkcommunityfund/logo_contest/blob/master/Leon-Kortekaas/preview3.png)
 
+## LOTR Tales
+
+![LOTR Tales](https://github.com/arkcommunityfund/logo_contest/blob/master/LOTR-Tales/Acf2.png)
+
 ## M Dominguez Silvia
 
 ![1](https://github.com/arkcommunityfund/logo_contest/blob/master/M-Dominguez-Silva/acf-1-preview.png)
