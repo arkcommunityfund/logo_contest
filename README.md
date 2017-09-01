@@ -152,4 +152,4 @@ PDF - check folder
 
 ## ZT
 
-![ZT](https://github.com/arkcommunityfund/logo_contest/blob/master/TTH/acf-logo-contest.png)
+![ZT](https://github.com/arkcommunityfund/logo_contest/blob/master/TTH/acf-logo-contest.jpg)
